@@ -22,4 +22,11 @@ go.work
 go.work.sum
 *.env
 
+# dependencies
+/node_modules/
+jspm_packages/
+/.pnp
+.pnp.js
+.zip
+
 tmp/
